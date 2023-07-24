@@ -1,1 +1,1 @@
-# atm-management
+# atm-management-application
